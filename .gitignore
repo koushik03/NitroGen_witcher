@@ -1,0 +1,6 @@
+*.tar
+*.tar.gz
+__pycache__/
+.env
+data/
+available_games_list.txt
