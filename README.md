@@ -1,6 +1,6 @@
 # Scaling Generalist Gaming Agents via Inverse Dynamics on Walkthroughs
 
-This project aims to significantly expand the training data available for generalist gaming agents by moving beyond videos with explicit "input overlays." By leveraging an **Inverse Dynamics Model (IDM)** trained on the [NitroGen](https://nitrogen-project.github.io/) foundation model dataset, we "pseudo-label" vast quantities of unlabeled internet gameplay videos (e.g., "Let's Plays" and walkthroughs). 
+This project aims to significantly expand the training data available for generalist gaming agents by moving beyond videos with explicit "input overlays." By leveraging an **Inverse Dynamics Model (IDM)** trained on the [NitroGen](https://nitrogen-project.github.io/) foundation model dataset, we "pseudo-label" vast quantities of unlabelled internet gameplay videos (e.g., "Let's Plays" and walkthroughs). 
 
 This approach allows agents to learn from a virtually unlimited source of data, drastically improving generalization across unseen games and genres.
 
