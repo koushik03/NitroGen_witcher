@@ -73,3 +73,20 @@ If you use this code or approach in your research, please cite the following fou
   journal={arXiv preprint arXiv:2410.11758},
   year={2024}
 }
+```
+
+## ⚖️ License & Disclaimers
+
+### Open Source License
+The code in this repository is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for the full text.
+
+### Upstream Restrictions & Non-Commercial Use
+This project is a derivative of the **NVIDIA NitroGen** model and dataset. Consequently, the following usage terms apply:
+* **Non-Commercial Research:** This model and the resulting pseudo-labeled data are restricted to **non-commercial research purposes** only.
+* **Prohibited Uses:** Use for military, surveillance, or commercial profit is strictly prohibited per the upstream NitroGen license.
+* **Inherited Notice:** Users must retain the [NOTICE](NOTICE) file when redistributing this work to maintain proper attribution to the NitroGen and VPT frameworks.
+
+### Data Disclaimer (Walkthroughs)
+* **Fair Use:** This project utilizes publicly available gameplay walkthroughs for the purpose of research and education under the principles of "Fair Use."
+* **Content Ownership:** All rights to the original gameplay footage belong to the respective content creators. We do not host or distribute raw video files.
+* **Takedown Requests:** If you are a content creator and wish to have your content removed from our indexing, please open a GitHub Issue.
