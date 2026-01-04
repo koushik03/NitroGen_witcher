@@ -1,0 +1,10 @@
+Scaling Generalist Gaming Agents via Inverse Dynamics
+Copyright 2026 Koushik Pingilli
+
+This project utilizes the NitroGen dataset and architecture. 
+As a derivative work, use of the models and data generated herein 
+is subject to the NVIDIA NitroGen License Agreement, which 
+restricts usage to NON-COMMERCIAL RESEARCH PURPOSES ONLY.
+
+The original NitroGen project can be found at: 
+https://github.com/nvidia/NitroGen
